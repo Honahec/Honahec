@@ -1,9 +1,21 @@
 ![](./banner.png)
 
-<div align="center" style="display: flex; justify-content: center; gap: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Honahec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Honahec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=html" height="150" alt="languages graph"  />
-</div>
+---
+
+**I'm currently...**
+
+- 👨‍💻 Member of [GeekPie Association](https://github.com/ShanghaitechGeekPie/)
+- 🎓 Studying at **ShanghaiTech University**
+- 💡 Majoring in **Computer Science**
+- 🎈 Also interested in Full-Stack Developing & UI/UX
+- 🌐 Learn more at [My Homepage](https://honahec.cc/) or [My Blog](https://blog.honahec.cc)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Honahec&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" width="45%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Honahec&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false&hide=html" width="45%" alt="languages graph"  />
+</p>
 
 ###
 
@@ -59,4 +71,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Honahec/Honahec/output/snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Honahec/Honahec/output/snake.svg" />
 </picture>
-
