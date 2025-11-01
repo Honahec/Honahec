@@ -19,7 +19,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://image.honahec.cc/1e436979b0cfa82db14fa019b5a905e6ec95fe4f.gif%401000w_560h.avif"  />
 
 ###
 
