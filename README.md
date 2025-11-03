@@ -34,7 +34,11 @@
 ###
 
 <div align="left">
-<picture><img src="https://skillicons.dev/icons?i=js,ts,nextjs,html,css,react,vue,vite,python,cpp,arduino"></picture>
+<picture><img src="https://skillicons.dev/icons?i=js,ts,nextjs,html,css"></picture>
+</div>
+
+<div align="left">
+<picture><img src="https://skillicons.dev/icons?i=react,vue,vite,python,cpp,arduino"></picture>
 </div>
 
 ###
