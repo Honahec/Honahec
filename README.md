@@ -8,7 +8,7 @@
 - 🎓 Studying at **ShanghaiTech University**
 - 💡 Majoring in **Computer Science**
 - 🎈 Also interested in Full-Stack Developing & UI/UX
-- 🌐 Learn more at [My Homepage](https://honahec.cc/) or [My Blog](https://blog.honahec.cc)
+- 🌐 Learn more at [My Blog](https://blog.honahec.cc)
 
 ---
 
